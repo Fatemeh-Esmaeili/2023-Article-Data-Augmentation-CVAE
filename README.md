@@ -1,4 +1,4 @@
-# 2023-Data-Augmentation-CVAE
+# 2023-Article-Data-Augmentation-CVAE
 
 Utilizing Deep Learning Algorithms for Signal Processing in Electrochemical Biosensors: From Data Augmentation to Detection and Quantification of Chemicals of Interest
 
